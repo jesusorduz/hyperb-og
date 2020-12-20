@@ -18,6 +18,10 @@ body{
     background-color: blue;
     
 }
+.principal{
+    font-size: 30px;
+    background-color: cadetblue;
+}
 h1{
     font-size: 20px;
 }
